@@ -2,7 +2,7 @@
  This repository is for projects I completed while taking the JavaScript course at The Tech Academy.
  
  ## Projects
- - [Todo-app]()
+ - [Todo-app](https://github.com/PDXoreothekID/JavaScript/tree/main)
 
 
 ### todo-app
