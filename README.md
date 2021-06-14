@@ -1,7 +1,7 @@
 # JavaScript
  This repository is for projects I completed while taking the JavaScript course at The Tech Academy.
  
- ##Projects
+ ## Projects
  - [Todo-app]()
 
 
