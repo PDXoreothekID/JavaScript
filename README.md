@@ -6,4 +6,4 @@
 
 
 ### todo-app
-This app is an example of JavaScript. I use JS to add and remove items from the todo list.
+This app is an example of JavaScript in use. I use JS functions to add and remove items from the todo list.
